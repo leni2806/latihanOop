@@ -2,11 +2,11 @@
 
 # Data Diri
 
-Nama: Diva Zahrotunnisa
+Nama: leni
 
-NIM: 312410415
+NIM: 312410442
 
-Kelas: TI.24.A3
+Kelas: TI.24.A5
 
 # Manajemen Data Mahasiswa
 
