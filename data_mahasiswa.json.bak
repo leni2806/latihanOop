@@ -1,0 +1,17 @@
+[
+    {
+        "nama": "Arfi",
+        "nim": "312410377",
+        "nilai": 90.0
+    },
+    {
+        "nama": "Sasya",
+        "nim": "312",
+        "nilai": 89.0
+    },
+    {
+        "nama": "Jono",
+        "nim": "31",
+        "nilai": 70.0
+    }
+]
